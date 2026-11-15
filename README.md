@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Erick Marcos
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Erick Marcos Lopes Batista, tenho 21 anos e sou de São Paulo.
 🚀 Desenvolvedor em constante evolução, sempre em busca de novos desafios e aprendizados.
